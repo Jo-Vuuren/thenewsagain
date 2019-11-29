@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">The News</string>
+
+    <!-- The text to display when no author name is specified. -->
+    <string name="anonymous">Anonymous</string>
+
+    <!-- The error message when there is no internet connection. -->
+    <string name="no_internet_connection">No internet connection</string>
+
+    <!-- The error message when there are no articles available. -->
+    <string name="no_articles">No articles found</string>
+</resources>

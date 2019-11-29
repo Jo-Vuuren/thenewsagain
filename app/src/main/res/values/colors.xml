@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#00838F</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#005662</color>
+
+    <!-- Accent color of the app -->
+    <color name="colorAccent">#F44336</color>
+
+    <!-- Text color for the details of the article in the list item -->
+    <color name="textColorArticle">#494949</color>
+
+    <!-- The color of the web url. -->
+    <color name="linkColor">#F44336</color>
+</resources>
