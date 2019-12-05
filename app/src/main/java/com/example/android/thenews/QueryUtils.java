@@ -149,9 +149,9 @@ public final class QueryUtils {
             // Create a JSONObject from the JSON response string
             JSONObject baseJsonResponse = new JSONObject(articleJSON);
 
-            // Extract the JSONArray associated with the key called "results",
+            // Extract the JSONArray associated with the key called "response",
             // which represents a list of features (or articles).
-            JSONArray articleArray = baseJsonResponse.getJSONArray("results");
+            JSONArray articleArray = baseJsonResponse.getJSONArray("response");
 
             // For each article in the articleArray, create an {@link Article} object
             for (int i = 0; i < articleArray.length(); i++) {

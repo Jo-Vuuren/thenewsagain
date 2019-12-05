@@ -2,7 +2,7 @@ package com.example.android.thenews;
 
 import android.content.Context;
 
-import androidx.loader.content.AsyncTaskLoader;
+import android.content.AsyncTaskLoader;
 
 import java.util.List;
 
